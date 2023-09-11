@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "igr4nhHI27/nmSBj4pPEA2P+E3CE3yazYBopRd3B58hDEIFeaYPN5+vhUHuy4tmau061jAUxB7IQ0AdSrVp1tw==",
+  "success": true,
+  "projectFilePath": "D:\\DotNet\\Ph_03AssistedProjects\\Ajax-Enabled Forms\\Sec_04Ajax-EnabledForms\\Sec_04Ajax-EnabledForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anjal\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\anjal\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
